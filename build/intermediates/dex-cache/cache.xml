@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/prashan/Documents/DavisGlassStuff/android-unispeech/UniSpeech/build/intermediates/exploded-aar/android-unispeech.dependencies.google-api-translate-android/google-api-translate-android/unspecified/libs/gson-2.2.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="53bfcd3c8e310d1493b2691484525ed90b04e236">
+        <dex dex="/Users/prashan/Documents/DavisGlassStuff/android-unispeech/UniSpeech/build/intermediates/pre-dexed/debug/gson-2.2.2-97f97bf39e049f988b189f645ce5b26e61b96958.jar" />
+    </item>
+    <item
+        jar="/Users/prashan/Documents/DavisGlassStuff/android-unispeech/UniSpeech/build/intermediates/exploded-aar/android-unispeech.dependencies.google-api-translate-android/google-api-translate-android/unspecified/libs/simple-xml-2.7.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d16571013a326ebbabecc4b0068cdc8cb2c1a268">
+        <dex dex="/Users/prashan/Documents/DavisGlassStuff/android-unispeech/UniSpeech/build/intermediates/pre-dexed/debug/simple-xml-2.7-2679f858077bbace1279c64175c5fc933b614b74.jar" />
+    </item>
+    <item
+        jar="/Users/prashan/Documents/DavisGlassStuff/android-unispeech/UniSpeech/libs/nmdp_speech_kit.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1b2557380ab96aa36e4de451e0c5159279454c81">
+        <dex dex="/Users/prashan/Documents/DavisGlassStuff/android-unispeech/UniSpeech/build/intermediates/pre-dexed/debug/nmdp_speech_kit-1510584db1323688077c972c91ce8c5707f0a272.jar" />
+    </item>
+    <item
+        jar="/Users/prashan/Documents/DavisGlassStuff/android-unispeech/UniSpeech/libs/nmdp_speech_kit_so.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5b751cc36bb9ef344970efd5c0455e1263af736a">
+        <dex dex="/Users/prashan/Documents/DavisGlassStuff/android-unispeech/UniSpeech/build/intermediates/pre-dexed/debug/nmdp_speech_kit_so-bfc9fdb4ceb98d96d9799da2364fedd5a24c9355.jar" />
+    </item>
+    <item
+        jar="/Users/prashan/Documents/DavisGlassStuff/android-unispeech/UniSpeech/build/intermediates/exploded-aar/android-unispeech.dependencies.google-api-translate-android/google-api-translate-android/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ad843ea2234ac97bda0e50119eec7b9033b7c931">
+        <dex dex="/Users/prashan/Documents/DavisGlassStuff/android-unispeech/UniSpeech/build/intermediates/pre-dexed/debug/classes-05bebdb8404abdd5c4232c2711a9dd6fe4bdccb9.jar" />
+    </item>
+    <item
+        jar="/Users/prashan/Documents/DavisGlassStuff/android-unispeech/UniSpeech/build/intermediates/exploded-aar/android-unispeech.dependencies/glass-progress-bar/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0b3c831d9f58d41f820d84de6d537999c6f97dee">
+        <dex dex="/Users/prashan/Documents/DavisGlassStuff/android-unispeech/UniSpeech/build/intermediates/pre-dexed/debug/classes-310d16b1471c8f17a0d617d3021b0ec8fe6a1c9e.jar" />
+    </item>
+    <item
+        jar="/Users/prashan/Documents/DavisGlassStuff/android-unispeech/UniSpeech/build/intermediates/exploded-aar/android-unispeech.dependencies.google-api-translate-android/google-api-translate-android/unspecified/libs/okhttp-1.1.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="97cdb2d08d42ce5bf93fe6ecd01133ba331b0b1b">
+        <dex dex="/Users/prashan/Documents/DavisGlassStuff/android-unispeech/UniSpeech/build/intermediates/pre-dexed/debug/okhttp-1.1.1-1fb6929921eb4bfbf35bfc81e81ee3ea9826f791.jar" />
+    </item>
+    <item
+        jar="/Users/prashan/Documents/DavisGlassStuff/android-unispeech/UniSpeech/build/intermediates/exploded-aar/android-unispeech.dependencies.google-api-translate-android/google-api-translate-android/unspecified/libs/retrofit-1.0.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6d82d622912eb1e107abb7cb82198410b5928041">
+        <dex dex="/Users/prashan/Documents/DavisGlassStuff/android-unispeech/UniSpeech/build/intermediates/pre-dexed/debug/retrofit-1.0.2-404d5053f78c86cf2433c30b66fb46605b8f2939.jar" />
+    </item>
+
+</items>
