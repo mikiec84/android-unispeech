@@ -11,6 +11,7 @@ import android.view.View;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import com.github.unispeech.ApiKeys;
 import com.github.unispeech.App;
 import com.github.unispeech.R;
 import com.github.unispeech.languageselect.SupportedSttLanguage;
@@ -181,7 +182,7 @@ public class RecognitionActivity extends Activity {
             startIndeterminate();
             GoogleTranslator.getInstance().execute(speechData.getOriginalText(),
                     mYourLanguage.getTranslationLanguage(),
-                    App.GOOGLE_TRANSLATE_API_KEY, new TranslatorCallback(this, speechData));
+                    ApiKeys.GOOGLE_TRANSLATE_API_KEY, new TranslatorCallback(this, speechData));
         } else {
             speechData.setTranslatedText(speechData.getOriginalText());
             updateSpeechData(speechData);
